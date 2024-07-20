@@ -25,5 +25,4 @@ Snappy is chat application build with the power of MERN Stack.
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="25" />
 
-## 🔧 Stats
-![Stats for this App](https://user-images.githubusercontent.com/71302066/173817276-26d0d2ea-c47a-4e57-b267-16436150749d.svg)
+
